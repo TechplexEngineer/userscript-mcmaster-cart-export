@@ -7,6 +7,8 @@
 // @match        *://www.mcmaster.com/orders*
 // @match        *://www.mcmaster.com/*
 // @grant        GM_setClipboard
+// @updateURL    https://github.com/TechplexEngineer/userscript-mcmaster-cart-export/raw/refs/heads/main/cart2json-mcmaster.user.js
+// @downloadURL  https://github.com/TechplexEngineer/userscript-mcmaster-cart-export/raw/refs/heads/main/cart2json-mcmaster.user.js
 // ==/UserScript==
 
 (function() {
